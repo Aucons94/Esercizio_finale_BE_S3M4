@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Web;
-using System.Web.UI;
 using System.Web.UI.WebControls;
 
 namespace Esercizio_finaleS3M4
@@ -47,7 +44,7 @@ namespace Esercizio_finaleS3M4
 
         /*
          * Summary: Svuota completamente il carrello
-         * Parameters: L'evento di innesco è il click sul bottone svuota carrello
+         * Parameters: L'evento di innesco è il click sul bottone svuota-carrello
          * Return: La funzione non ritorna nulla
         */
         protected void SvuotaCarrello_Click(object sender, EventArgs e)

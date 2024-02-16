@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_finaleS3M4\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52783ACE-132A-4C05-B4AC-0B1721AE36F6}|Esercizio_finaleS3M4\\Esercizio_finaleS3M4.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 1\\settimana 3\\esercizio_finale\\esercizio_finales3m4\\esercizio_finales3m4\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52783ACE-132A-4C05-B4AC-0B1721AE36F6}|Esercizio_finaleS3M4\\Esercizio_finaleS3M4.csproj|solutionrelative:esercizio_finales3m4\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52783ACE-132A-4C05-B4AC-0B1721AE36F6}|Esercizio_finaleS3M4\\Esercizio_finaleS3M4.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 1\\settimana 3\\esercizio_finale\\esercizio_finales3m4\\esercizio_finales3m4\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52783ACE-132A-4C05-B4AC-0B1721AE36F6}|Esercizio_finaleS3M4\\Esercizio_finaleS3M4.csproj|solutionrelative:esercizio_finales3m4\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52783ACE-132A-4C05-B4AC-0B1721AE36F6}|Esercizio_finaleS3M4\\Esercizio_finaleS3M4.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 1\\settimana 3\\esercizio_finale\\esercizio_finales3m4\\esercizio_finales3m4\\dettaglio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52783ACE-132A-4C05-B4AC-0B1721AE36F6}|Esercizio_finaleS3M4\\Esercizio_finaleS3M4.csproj|solutionrelative:esercizio_finales3m4\\dettaglio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52783ACE-132A-4C05-B4AC-0B1721AE36F6}|Esercizio_finaleS3M4\\Esercizio_finaleS3M4.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 1\\settimana 3\\esercizio_finale\\esercizio_finales3m4\\esercizio_finales3m4\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{52783ACE-132A-4C05-B4AC-0B1721AE36F6}|Esercizio_finaleS3M4\\Esercizio_finaleS3M4.csproj|solutionrelative:esercizio_finales3m4\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52783ACE-132A-4C05-B4AC-0B1721AE36F6}|Esercizio_finaleS3M4\\Esercizio_finaleS3M4.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 1\\settimana 3\\esercizio_finale\\esercizio_finales3m4\\esercizio_finales3m4\\carrello.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52783ACE-132A-4C05-B4AC-0B1721AE36F6}|Esercizio_finaleS3M4\\Esercizio_finaleS3M4.csproj|solutionrelative:esercizio_finales3m4\\carrello.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52783ACE-132A-4C05-B4AC-0B1721AE36F6}|Esercizio_finaleS3M4\\Esercizio_finaleS3M4.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 1\\settimana 3\\esercizio_finale\\esercizio_finales3m4\\esercizio_finales3m4\\carrello.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52783ACE-132A-4C05-B4AC-0B1721AE36F6}|Esercizio_finaleS3M4\\Esercizio_finaleS3M4.csproj|solutionrelative:esercizio_finales3m4\\carrello.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carrello.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_finaleS3M4\\Esercizio_finaleS3M4\\Carrello.aspx.cs",
+              "RelativeDocumentMoniker": "Esercizio_finaleS3M4\\Carrello.aspx.cs",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_finaleS3M4\\Esercizio_finaleS3M4\\Carrello.aspx.cs",
+              "RelativeToolTip": "Esercizio_finaleS3M4\\Carrello.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwC4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T15:12:13.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_finaleS3M4\\Esercizio_finaleS3M4\\Prodotto.cs",
+              "RelativeDocumentMoniker": "Esercizio_finaleS3M4\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_finaleS3M4\\Esercizio_finaleS3M4\\Prodotto.cs",
+              "RelativeToolTip": "Esercizio_finaleS3M4\\Prodotto.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T15:12:07.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_finaleS3M4\\Esercizio_finaleS3M4\\Site.Master",
+              "RelativeDocumentMoniker": "Esercizio_finaleS3M4\\Site.Master",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_finaleS3M4\\Esercizio_finaleS3M4\\Site.Master",
+              "RelativeToolTip": "Esercizio_finaleS3M4\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-16T15:11:56.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dettaglio.aspx",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_finaleS3M4\\Esercizio_finaleS3M4\\Dettaglio.aspx",
+              "RelativeDocumentMoniker": "Esercizio_finaleS3M4\\Dettaglio.aspx",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_finaleS3M4\\Esercizio_finaleS3M4\\Dettaglio.aspx",
+              "RelativeToolTip": "Esercizio_finaleS3M4\\Dettaglio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-16T15:11:36.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_finaleS3M4\\Esercizio_finaleS3M4\\Default.aspx",
+              "RelativeDocumentMoniker": "Esercizio_finaleS3M4\\Default.aspx",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_finaleS3M4\\Esercizio_finaleS3M4\\Default.aspx",
+              "RelativeToolTip": "Esercizio_finaleS3M4\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-16T15:11:26.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carrello.aspx",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_finaleS3M4\\Esercizio_finaleS3M4\\Carrello.aspx",
+              "RelativeDocumentMoniker": "Esercizio_finaleS3M4\\Carrello.aspx",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Esercizio_finale\\Esercizio_finaleS3M4\\Esercizio_finaleS3M4\\Carrello.aspx",
+              "RelativeToolTip": "Esercizio_finaleS3M4\\Carrello.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-16T15:09:56.873Z",
+              "EditorCaption": ""
             }
           ]
         }

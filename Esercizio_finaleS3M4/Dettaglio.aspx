@@ -8,10 +8,14 @@
             </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <h3><asp:Label ID="NomeProdotto" class="card-title" runat="server"></asp:Label></h3>
-                    <p><asp:Label ID="DescrizioneProdotto" class="card-text" runat="server"></asp:Label></p>
-                    <p><asp:Label ID="DescrizioneDettagliata" class="card-text" runat="server"></asp:Label></p>
-                    <p><strong><asp:Label ID="Prezzo" runat="server"></asp:Label></strong></p>
+                    <h3>
+                        <asp:Label ID="NomeProdotto" class="card-title" runat="server"></asp:Label></h3>
+                    <p>
+                        <asp:Label ID="DescrizioneProdotto" class="card-text" runat="server"></asp:Label></p>
+                    <p>
+                        <asp:Label ID="DescrizioneDettagliata" class="card-text" runat="server"></asp:Label></p>
+                    <p><strong>
+                        <asp:Label ID="Prezzo" runat="server"></asp:Label></strong></p>
                     <asp:Button ID="AddCarrello" runat="server" Text="Aggiungi al Carrello" CssClass="btn btn-danger" OnClick="AddCarrello_Click" />
                 </div>
             </div>

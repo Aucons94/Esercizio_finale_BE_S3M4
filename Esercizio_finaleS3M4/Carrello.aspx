@@ -15,7 +15,9 @@
                 </div>
             </ItemTemplate>
         </asp:Repeater>
-        <p class="mt-5">Totale: <asp:Label ID="TotaleLabel" runat="server" Text="0.00"></asp:Label> €</p>
+        <p class="mt-5">Totale:
+            <asp:Label ID="TotaleLabel" runat="server" Text="0.00"></asp:Label>
+            €</p>
         <asp:Button ID="SvuotaCarrello" runat="server" Text="Svuota Carrello" class="btn btn-danger" OnClick="SvuotaCarrello_Click" />
     </div>
 </asp:Content>
